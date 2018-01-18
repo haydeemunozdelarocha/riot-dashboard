@@ -1,0 +1,15 @@
+{
+  "name": "dashboard-riot",
+  "version": "1.0.0",
+  "description": "Simple riot app",
+  "main": "index.js",
+  "scripts": {
+    "test": "karma start"
+  },
+  "author": "Haydee Munoz",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+
+}

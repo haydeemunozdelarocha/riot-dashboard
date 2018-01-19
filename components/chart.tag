@@ -1,4 +1,0 @@
-<chart>
-<div>
-</div>
-</chart>
